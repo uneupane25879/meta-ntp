@@ -1,5 +1,5 @@
 # ntp
-## Just added a single line by Upen
+## This is the first line added by Upen
 #### Table of Contents
 
 1. [Description](#description)
@@ -39,7 +39,7 @@ If there's more that they should know about, though, this is the place to mentio
 * Warnings or other important notices.
 
 ### Setup Requirements **OPTIONAL**
-
+### This is the second line edited by Upen
 If your module requires anything extra before setting up (pluginsync enabled,
 etc.), mention it here.
 
@@ -75,9 +75,9 @@ are Known Issues, you might want to include them under their own heading here.
 
 Since your module is awesome, other users will want to play with it. Let them
 know what the ground rules for contributing are.
-
-## Release Notes/Contributors/Etc. **Optional**
-
+### This is the third line added by Upen
+## Relese Notes/Contributors/Etc. **Optional**
+## I removed 'a' from 'release' from above line
 If you aren't using changelog, put your release notes here (though you should
 consider using changelog). You can also add any additional sections you feel
 are necessary or important to include here. Please use the `## ` header.
